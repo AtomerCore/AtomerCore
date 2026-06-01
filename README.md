@@ -4,7 +4,7 @@
 
 > *"Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity."*
 > — **Alan Turing**
->
+
 > *本当の夢はその先にあるんだけど*
 > — **いじちにじか**
 
